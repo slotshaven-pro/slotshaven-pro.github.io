@@ -12,6 +12,7 @@
   source: uvm
   description: Undervisningsministeriets vejledning til læreplan for Programmering B (HTX).
   url: https://www.uvm.dk/-/media/filer/uvm/udd/gym/pdf23/aug/vejledninger/240807-vejledning-til-programmering-b--valgfag.pdf
+- name: 'E-bog Computerspil - design og udvikling'
   published: true
   id: computerspilbog
   category: ebog
