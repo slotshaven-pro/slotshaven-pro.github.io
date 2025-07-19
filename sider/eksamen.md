@@ -7,7 +7,7 @@ permalink: /eksamen
 ## Introduktion
 Beskrivelsen bygger på læreplanen.
 
-{% include link_by_id laereplan-programmering %}
+{% include link_by_id id="laereplan-programmering" %}
 
 ## Eksamensform
 TODO
