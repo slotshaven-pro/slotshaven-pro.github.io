@@ -1,0 +1,42 @@
+- name: Læreplan for Programmering B
+  published: true
+  id: laereplan-programmering
+  category: regler
+  source: uvm
+  description: Undervisningsministeriets læreplan for faget Programmering B (HTX).
+  url: https://www.uvm.dk/-/media/filer/uvm/gym-laereplaner-2017/valgfag/programmering-b-valgfag-august-2017.pdf
+- name: Vejledning til læreplan for Programmering B
+  published: true
+  id: vejledning-programmering
+  category: regler
+  source: uvm
+  description: Undervisningsministeriets vejledning til læreplan for Programmering B (HTX).
+  url: https://www.uvm.dk/-/media/filer/uvm/udd/gym/pdf23/aug/vejledninger/240807-vejledning-til-programmering-b--valgfag.pdf
+  published: true
+  id: computerspilbog
+  category: ebog
+  source: systime
+  description: Systimes e-grundbog om design og udvikling af computerspil.
+  url: https://computerspil.systime.dk/
+- name: Slotshaven Gymnasium
+  published: false
+  id: slotshaven
+  category: general
+  source: slotshaven
+  description: Slotshaven Gymnasiums hjemmeside.
+  url: https://www.slotshaven.dk/
+- name: Teams Filer
+  published: true
+  id: teams
+  category: fil
+  source: slotshaven
+  description: Fælles filserver for DDU på Teams (kræver login).
+  url: https://teams.microsoft.com/l/channel/19%3A5_Bl6iBH20GPeL46dR6__-7M8fwRG8LJf6eCK2_b82Q1%40thread.tacv2/General?groupId=fa21d06a-c4ed-4bbf-8082-b2f277f71ac0&tenantId=86fab2dc-170a-4f76-844b-d7dfdbdef3d8
+- name: DDU Sharepoint
+  published: true
+  id: sharepoint
+  category: filadgang
+  source: slotshaven
+  description: DDU Sharepoint med klassens materialer (kræver login).
+  url: https://edueucnvs.sharepoint.com/sites/DDU/Class%20Materials/Forms/AllItems.aspx
+

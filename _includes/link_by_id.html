@@ -1,0 +1,27 @@
+{%- assign link = site.data.links | where: "id", include.id | first -%}
+
+{%- if link -%}
+  {%- case include.style -%}
+
+    {%- when "verbose" -%}
+      <p>
+        <strong><a href="{{ link.url }}" target="_blank" rel="noopener">
+          {{ link.name }} ↗️
+        </a></strong><br>
+        {{ link.description }}
+      </p>
+
+    {%- when "plain" -%}
+      <a href="{{ link.url }}" target="_blank" rel="noopener">
+        {{ link.url }} ↗️
+      </a>
+
+    {%- else -%} 
+      <a href="{{ link.url }}" target="_blank" rel="noopener">
+        {{ link.name }} ↗️
+      </a>
+
+  {%- endcase -%}
+{%- else -%}
+  <em>Link not found: {{ include.id }}</em>
+{%- endif -%}

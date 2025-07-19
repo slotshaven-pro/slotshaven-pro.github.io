@@ -1,0 +1,13 @@
+title: Programmering
+description: Slotshaven Gymnasium
+theme: jekyll-theme-cayman
+
+collections:
+  emne:
+    output: true
+    permalink: /emne/:name/
+defaults:
+  - scope:
+      path: "sider"
+    values:
+      permalink: /:slug/ # Default permalink for pages in the sider directory

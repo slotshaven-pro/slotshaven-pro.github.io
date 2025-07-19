@@ -1,0 +1,36 @@
+- name: GitHub
+  category: Versionstyring
+  description: Det forventes at alle formår at bruge GitHub til versionsstyring af kode.
+  url: https://github.com/
+- name: GitHub Desktop
+  category: Versionstyring
+  description: GitHub Desktop er nemmere at bruge end kommandolinjeværktøjet git
+  url: https://github.com/apps/desktop/
+- name: Visual Studio Code
+  category: kode
+  description: Vi bruger Visual Studio Code til kodeudvikling
+  url: https://code.visualstudio.com/
+- name: Trello
+  category: Projektstyring
+  description: Det forventes at der anvendes struktureret projektstyring i alle grupper. Vi bruger som udgangspunkt Trello.
+  url: https://trello.com/
+- name: Python
+  category: Programmering
+  description: I machine learning anvendes der Python 3.
+  url: https://www.python.org/
+- name: Jupyter Notebooks
+  category: Programmering
+  description: Jupyter Notebooks er et interaktivt udviklingsmiljø til Python.
+  url: https://jupyter.org/
+- name: GitHub CodeSpaces
+  category: Kodeudvikling
+  description: GitHub Codespaces er et online udviklingsmiljø, der kan bruges til at skrive og køre kode direkte i browseren.
+  url: https://github.com/codespaces
+- name: GitHub Copilot
+  category: Kodeassistance
+  description: GitHub Copilot er en AI-drevet kodeassistent, der kan hjælpe med at skrive kode.
+  url: https://github.com/features/copilot
+- name: GitHub Classroom
+  category: Undervisningsværktøj
+  description: GitHub Classroom er et værktøj til undervisere, der gør det nemt at administrere og bedømme kodeprojekter.
+  url: https://classroom.github.com/

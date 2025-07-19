@@ -1,0 +1,10 @@
+<section class="links">
+{% assign links = site.data.links | where: "category", "ebog" %}
+<ul>
+{% for item in links %}
+  <li>
+    <a href="{{ item.url }}" title="{{ item.description }}">{{ item.name }}</a>
+  </li>
+{% endfor %}
+</ul>
+</section>
