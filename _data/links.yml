@@ -19,13 +19,6 @@
   source: systime
   description: En grundbog til faget Programmering C & B
   url: https://programmering.systime.dk/
-- name: 'E-bog Computerspil - design og udvikling'
-  published: true
-  id: computerspilbog
-  category: ebog
-  source: systime
-  description: Systimes e-grundbog om design og udvikling af computerspil.
-  url: https://computerspil.systime.dk/
 - name: Slotshaven Gymnasium
   published: false
   id: slotshaven

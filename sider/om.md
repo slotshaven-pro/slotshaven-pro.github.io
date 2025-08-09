@@ -4,7 +4,9 @@ description: '- kode og udvikling på HTX'
 published: yes
 permalink: /om
 ---
-Programmering B er et studieretningsfag.
+## Indledning
+Programmering B er et studieretningsfag på MAT-PRO-linjen på HTX Slotshaven.
+
 
 ## Om faget
 TODO
