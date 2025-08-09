@@ -12,6 +12,13 @@
   source: uvm
   description: Undervisningsministeriets vejledning til læreplan for Programmering B (HTX).
   url: https://www.uvm.dk/-/media/filer/uvm/udd/gym/pdf23/aug/vejledninger/240807-vejledning-til-programmering-b--valgfag.pdf
+- name: Programmering
+  published: true
+  id: programmering
+  category: ebog
+  source: systime
+  description: En grundbog til faget Programmering C & B
+  url: https://programmering.systime.dk/
 - name: 'E-bog Computerspil - design og udvikling'
   published: true
   id: computerspilbog
@@ -26,18 +33,18 @@
   source: slotshaven
   description: Slotshaven Gymnasiums hjemmeside.
   url: https://www.slotshaven.dk/
-- name: Teams Filer
+- name: TODO Teams Filer (login krævet)
   published: true
   id: teams
-  category: fil
+  category: fildeling
   source: slotshaven
   description: Fælles filserver for DDU på Teams (kræver login).
-  url: https://teams.microsoft.com/l/channel/19%3A5_Bl6iBH20GPeL46dR6__-7M8fwRG8LJf6eCK2_b82Q1%40thread.tacv2/General?groupId=fa21d06a-c4ed-4bbf-8082-b2f277f71ac0&tenantId=86fab2dc-170a-4f76-844b-d7dfdbdef3d8
-- name: DDU Sharepoint
+  url: https://teams.microsoft.com/
+- name: TODO Sharepoint (login krævet)
   published: true
   id: sharepoint
-  category: filadgang
+  category: fildeling
   source: slotshaven
   description: DDU Sharepoint med klassens materialer (kræver login).
-  url: https://edueucnvs.sharepoint.com/sites/DDU/Class%20Materials/Forms/AllItems.aspx
+  url: https://edueucnvs.sharepoint.com/
 

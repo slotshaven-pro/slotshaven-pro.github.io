@@ -4,7 +4,7 @@ description: '- kode og udvikling på HTX'
 published: yes
 permalink: /om
 ---
-Programmering B er et valgfag i 2. og 3.g på HTX.
+Programmering B er et studieretningsfag.
 
 ## Om faget
 TODO
