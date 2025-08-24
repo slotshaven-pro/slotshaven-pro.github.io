@@ -6,7 +6,7 @@
 <section class="collection-list">
   {% assign collection = site[include.collection] | sort: "order" %}
   {% for item in collection %}
-    <article class="collection-item">
+    <article class="collection-item"  style="padding-bottom: 2em;">
       <h2>{{ item.title | default: "[Ingen titel]" }}</h2>
       <p>{{ item.description | default: "[Ingen beskrivelse]." }}</p>
       <a href="{{ item.url | relative_url }}">Læs mere</a>

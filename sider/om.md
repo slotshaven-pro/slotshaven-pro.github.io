@@ -36,9 +36,8 @@ Undervisningen organiseres omkring flere temaer og projekter. Disse vælges, så
 supplerende stof, med henblik på at der er en klar progression i arbejdet med faglige mål og selvstændighed.
 
 Undervisningen tilrettelægges ved brug af anerkendte didaktiske principper, herunder
-- _use-modify-create_-progression fra at anvende udleverede programmer til at modificere disse for til sidst selvstændigt at skabe (nye dele af) programmer;
-
-- _Stepwise Improvement_, som teknik til trinvis, iterativ og systematisk udvikling af programmer og
+- _use-modify-create_-progression fra at anvende udleverede programmer til at modificere disse for til sidst selvstændigt at skabe (nye dele af) programmer
+- _Stepwise Improvement_, som teknik til trinvis, iterativ og systematisk udvikling af programmer, og
 - _Worked Examples_ (kombineret med _faded guidance_), til illustration af eksemplariske løsningsprocesser.
 
 Undervisningsformen differentieres således, at alle elever udvikler sig i undervisningsforløbet. Der veksles mellem overbliksskabende forløb, eksperimenter, øvelser og projekter.
