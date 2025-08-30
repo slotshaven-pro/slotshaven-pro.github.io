@@ -55,7 +55,7 @@ Undervisningen følger Undervisningsministeriets læreplaner som kan findes her.
 
 {{ item.description }}
 
-[↗️ PDF]({{ item.link }}){:target="_blank" rel="noopener"}
+[↗️ PDF]({{ item.url }}){:target="_blank" rel="noopener"}
 
 {% endif %}
 {% endfor %}

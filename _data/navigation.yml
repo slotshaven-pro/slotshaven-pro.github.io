@@ -1,8 +1,8 @@
 - name: Hjem
-  link: /
+  url: /
 - name: Emner
-  link: /emner
+  url: /emner
 - name: Værktøjer
-  link: /vaerktoejer
+  url: /vaerktoejer
 - name: Om faget
-  link: /om
+  url: /om
