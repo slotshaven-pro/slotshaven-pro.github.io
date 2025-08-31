@@ -4,8 +4,38 @@ description: '- kode og udvikling på HTX'
 published: yes
 permalink: /om
 ---
-## Om faget
 Programmering B er et studieretningsfag på MAT-PRO-linjen på HTX Slotshaven.
+
+Der undervises i programmeringssproget python.
+
+## Eksamen
+Som studieretningsfag er der obligatorisk årsprøve i 2g og afsluttende eksamen i 3g.
+
+[Læs mere om eksamen ↗️]({% link sider/eksamen.md %}).
+
+## Omfang
+**2g**: Ca. 56 moduler med 7 timers elevtid.
+
+**3g**: ca. 119 moduler med 25 timers elevtid.
+
+## Grundbøger og undervisningsmateriale
+{% include link_by_id.html id="programmering" %}
+
+{% include link_by_id.html id="python-3-12-10-docs" %}
+
+## Om kunstig intelligens (AI)
+Her følger et par pædagogiske ord om brugen af AI i programmering B.
+
+&#x24D8; _Det er meget vigtigt at man bruger AI med omtanke som nybegynder._
+
+AI er ufattelig dygtig til at kode. Men erfaringen viser at uden den grundlæggende forståelse af programmering, render man hurtigt ind i problemer når man bruger AI.
+
+Man kan godt lære at kode med AI. Det kræver dog man har lært at læse og forstå kode først.
+
+Vi bruger AI i undervisningen når det er relevant.
+
+## Læreplan
+Undervisningen følger Undervisningsministeriets læreplaner. Her følger et resume.
 
 ### Faglige mål
 Eleverne skal kunne:
@@ -20,7 +50,7 @@ ny indsigt eller til at løse et problem
 - demonstrere viden om fagets identitet og metoder
 - arbejde inkrementelt og systematisk i programmeringsprocessen.
 
-## Kernestof
+### Kernestof
 Gennem kernestoffet skal eleverne opnå faglig fordybelse, viden og kundskaber.
 Kernestoffet er:
 - programmeringssprog og elementer i programmers opbygning, herunder variabler, typer, udtryk, kontrolstrukturer,
@@ -31,7 +61,7 @@ mellem systemer
 - arbejdsgange og systematik i programmeringsprocessen, herunder test og fejlfinding
 - abstrakte programmeringsbeskrivelser og dokumentation.
 
-## Didaktiske principper
+### Didaktiske principper
 Undervisningen organiseres omkring flere temaer og projekter. Disse vælges, så de tilsammen dækker kernestof og
 supplerende stof, med henblik på at der er en klar progression i arbejdet med faglige mål og selvstændighed.
 
@@ -42,26 +72,13 @@ Undervisningen tilrettelægges ved brug af anerkendte didaktiske principper, her
 
 Undervisningsformen differentieres således, at alle elever udvikler sig i undervisningsforløbet. Der veksles mellem overbliksskabende forløb, eksperimenter, øvelser og projekter.
 
-## Eksamen
-[Læs mere om eksamen ↗️]({% link sider/eksamen.md %}).
+### Referencer
+**Læreplan**
 
-## Læreplaner
-Undervisningen følger Undervisningsministeriets læreplaner som kan findes her.
+{% include link_by_id.html id="laereplan-programmering" %}
 
-{% for item in site.data.links %}
-{% if item.source == "uvm" %}
+**Vejledning til læreplan**
 
-### {{ item.name }}
+{% include link_by_id.html id="vejledning-programmering" %}
 
-{{ item.description }}
 
-[↗️ PDF]({{ item.url }}){:target="_blank" rel="noopener"}
-
-{% endif %}
-{% endfor %}
-
-## Grundbøger
-{% include eboeger.html %}
-
-## Bogmærker
-Se også [bogmærker]({% link sider/bogmaerker.md %}).

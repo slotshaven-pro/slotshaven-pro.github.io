@@ -19,6 +19,13 @@
   source: systime
   description: En grundbog til faget Programmering C & B
   url: https://programmering.systime.dk/
+- name: Python 3.12.10 Documentation
+  published: true
+  id: python-3-12-10-docs
+  category: dokumentation
+  source: python
+  description: Officiel dokumentation for Python version 3.12.10.
+  url: https://docs.python.org/3.12/
 # - name: Slotshaven Gymnasium
 #   published: false
 #   id: slotshaven
