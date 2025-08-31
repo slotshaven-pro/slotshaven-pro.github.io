@@ -19,25 +19,25 @@
   source: systime
   description: En grundbog til faget Programmering C & B
   url: https://programmering.systime.dk/
-- name: Slotshaven Gymnasium
-  published: false
-  id: slotshaven
-  category: general
-  source: slotshaven
-  description: Slotshaven Gymnasiums hjemmeside.
-  url: https://www.slotshaven.dk/
-- name: TODO Teams Filer (login krævet)
-  published: true
-  id: teams
-  category: fildeling
-  source: slotshaven
-  description: Fælles filserver for DDU på Teams (kræver login).
-  url: https://teams.microsoft.com/
-- name: TODO Sharepoint (login krævet)
-  published: true
-  id: sharepoint
-  category: fildeling
-  source: slotshaven
-  description: DDU Sharepoint med klassens materialer (kræver login).
-  url: https://edueucnvs.sharepoint.com/
+# - name: Slotshaven Gymnasium
+#   published: false
+#   id: slotshaven
+#   category: general
+#   source: slotshaven
+#   description: Slotshaven Gymnasiums hjemmeside.
+#   url: https://www.slotshaven.dk/
+# - name: TODO Teams Filer (login krævet)
+#   published: true
+#   id: teams
+#   category: fildeling
+#   source: slotshaven
+#   description: Fælles filserver for DDU på Teams (kræver login).
+#   url: https://teams.microsoft.com/
+# - name: TODO Sharepoint (login krævet)
+#   published: true
+#   id: sharepoint
+#   category: fildeling
+#   source: slotshaven
+#   description: DDU Sharepoint med klassens materialer (kræver login).
+#   url: https://edueucnvs.sharepoint.com/
 

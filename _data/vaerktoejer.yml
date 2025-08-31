@@ -10,10 +10,6 @@
   category: kode
   description: Vi bruger Visual Studio Code til kodeudvikling
   url: https://code.visualstudio.com/
-- name: Trello
-  category: Projektstyring
-  description: Det forventes at der anvendes struktureret projektstyring i alle grupper. Vi bruger som udgangspunkt Trello.
-  url: https://trello.com/
 - name: Python
   category: Programmering
   description: I machine learning anvendes der Python 3.
@@ -22,15 +18,19 @@
   category: Programmering
   description: Jupyter Notebooks er et interaktivt udviklingsmiljø til Python.
   url: https://jupyter.org/
-- name: GitHub CodeSpaces
-  category: Kodeudvikling
-  description: GitHub Codespaces er et online udviklingsmiljø, der kan bruges til at skrive og køre kode direkte i browseren.
-  url: https://github.com/codespaces
 - name: GitHub Copilot
   category: Kodeassistance
   description: GitHub Copilot er en AI-drevet kodeassistent, der kan hjælpe med at skrive kode.
   url: https://github.com/features/copilot
-- name: GitHub Classroom
-  category: Undervisningsværktøj
-  description: GitHub Classroom er et værktøj til undervisere, der gør det nemt at administrere og bedømme kodeprojekter.
-  url: https://classroom.github.com/
+# - name: Trello
+#   category: Projektstyring
+#   description: Det forventes at der anvendes struktureret projektstyring i alle grupper. Vi bruger som udgangspunkt Trello.
+#   url: https://trello.com/
+# - name: GitHub CodeSpaces
+#   category: Kodeudvikling
+#   description: GitHub Codespaces er et online udviklingsmiljø, der kan bruges til at skrive og køre kode direkte i browseren.
+#   url: https://github.com/codespaces
+# - name: GitHub Classroom
+#   category: Undervisningsværktøj
+#   description: GitHub Classroom er et værktøj til undervisere, der gør det nemt at administrere og bedømme kodeprojekter.
+#   url: https://classroom.github.com/
