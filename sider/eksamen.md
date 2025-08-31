@@ -9,18 +9,18 @@ Som studieretningsfag afsluttes Programmering B med obligatorisk eksamen i 3g.
 Et stykke tid før eksamen afleveres et programmeringsprojekt som præsenteres til den afsluttende eksamen.
 Projektet udarbejdes i grupper.
 
-I 2g afsluttes året med et årsprøveprojekt. Det er en mindre udgave af den afsluttende eksamen i 3g. Den mundtlige eksamen har dog intern censur.
+I 2g afsluttes året med et årsprøveprojekt. Det er en mindre udgave af den afsluttende eksamen i 3g, dog med intern censur.
 
 ### Prøveform
 - ekstern censur
 - mundtlig
 - individuel
 - varighed ca. 30 minutter
-- forberedelse: ca. 60 minutter
+- forberedelse ca. 60 minutter
 
 Prøven indeholder to dele:
 - eksamensprojekt
-- ukendt opgave som besvare i forberedelsestiden
+- ukendt opgave som besvares i forberedelsestiden
 
 Tiden fordeles ligeligt mellem eksamensprojektet og den ukendte opgave.
 
@@ -41,10 +41,10 @@ Projektbeskrivelsen skal godkendes af vejlederen, som sikrer det faglige niveau 
 
 **Elektronisk form.** Rapporten afleveres også i elektronisk form på eksamensopgaven i Lectio.
 
-**Produkt**
-Det tilhørende program skal afleveres på et medie, så det kan sikres, at der ikke efterfølgende kan ændres i det afleverede.
+**Program/produkt.**
+Det tilhørende program skal afleveres på et medie, så det kan sikres, at det efterfølgende ikke kan ændres i perioden indtil eksamen.
 
 Software afleveres således som kodefiler på et USB-stik, samt eventuelt i form af et link til et GitHub-repo eller lignende.
 
 ### Bedømmelse
-Der gives en samlet karakter for præsentationen af eksamensprojektet og besvarelsen fra fremlæggelsen.
+Der gives en samlet karakter for præsentationen af eksamensprojektet og besvarelsen af opgaven fra forberedelsen.
