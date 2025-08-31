@@ -1,37 +1,50 @@
 ---
 author: MKM
-title: Eksamen (opdateres)
+title: Eksamen
 description: '- alt om det afsluttende eksamenprojekt'
 permalink: /eksamen
 ---
-## Introduktion
-Beskrivelsen bygger på læreplanen.
+Som studieretningsfag afsluttes Programmering B med obligatorisk eksamen i 3g.
 
-{% include link_by_id.html id="laereplan-programmering" %}
+Et stykke tid før eksamen afleveres et programmeringsprojekt som præsenteres til den afsluttende eksamen.
+Projektet udarbejdes i grupper.
 
-## Eksamensform
-TODO
+I 2g afsluttes året med et årsprøveprojekt. Det er en mindre udgave af den afsluttende eksamen i 3g. Den mundtlige eksamen har dog intern censur.
 
-## Arbejdsform
-Projektet udarbejdes i grupper på to til fire personer. Helt undtagelsesvis kan det tillades at en elev arbejder individuelt. Eleverne i en gruppe har fælles ansvar for det afleverede.
+### Prøveform
+- ekstern censur
+- mundtlig
+- individuel
+- varighed ca. 30 minutter
+- forberedelse: ca. 60 minutter
 
-## Projektbeskrivelse
-Når grupperne er dannet og har valgt emne og tema, skal der aflevere en projektbeskrivelse.
+Prøven indeholder to dele:
+- eksamensprojekt
+- ukendt opgave som besvare i forberedelsestiden
 
-Projektbeskrivelsen skal godkendes af vejlederen, som blandt andet skal sikre at det faglige indhold ligger inden for fagets rammer og har et tilstrækkeligt og realistisk fagligt niveau. Det egentlige projektarbejde begynder først, når projektbeskrivelsen er godkendt af vejleder.
+Tiden fordeles ligeligt mellem eksamensprojektet og den ukendte opgave.
 
-## Aflevering
+### Projektets arbejdsform
+Projektet udarbejdes i grupper på 2-4 elever.
 
+Eleverne i en gruppe har fælles ansvar for det afleverede.
+
+Kun undtagelsesvis kan det tillades at en elev arbejder individuelt.
+
+### Projektbeskrivelse
+Når grupperne har valgt emne og tema, skal der afleveres en projektbeskrivelse.
+
+Projektbeskrivelsen skal godkendes af vejlederen, som sikrer det faglige niveau og indhold, før arbejdet med projektet kan gå i gang.
+
+### Aflevering
 **Trykt rapport**. (Revideres) Rapporten med bilag afleveres i to trykte eksemplarer på studieadministrationen.
 
-Husk derudover kopier til jer selv. Det er jeres ansvar at indsatte diagrammer og fotos etc. samt bilag såsom kildekode, screenshots og datablade, alt sammen er tydeligt læseligt og uden mangler, så sørg nu for at se filer og dokumenter igennem en sidste gang, når I har genereret det der skal afleveres, før I afleverer det.
-
-**Elektronisk form.** For det andet afleveres rapporten i elektronisk form på eksamensopgaven i Lectio.
+**Elektronisk form.** Rapporten afleveres også i elektronisk form på eksamensopgaven i Lectio.
 
 **Produkt**
-(Revideres) Det tilhørende produkt afleveres i en form/på et medie, så det kan sikres, at der ikke efterfølgende kan ændres i det afleverede.
+Det tilhørende program skal afleveres på et medie, så det kan sikres, at der ikke efterfølgende kan ændres i det afleverede.
 
-Software afleveres som kodefiler på et USB-stik samt eventuelt i form af et link til et GitHub-repo eller lignende.
+Software afleveres således som kodefiler på et USB-stik, samt eventuelt i form af et link til et GitHub-repo eller lignende.
 
-## Bedømmelse
-TODO
+### Bedømmelse
+Der gives en samlet karakter for præsentationen af eksamensprojektet og besvarelsen fra fremlæggelsen.
