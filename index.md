@@ -12,17 +12,14 @@ Materialet er placeret i to repositories for hhv. andet og tredje år.
 [Tredje år](https://github.com/slotshaven-pro/pro3)
 
 
-## Materialer
-Materialer kan findes her.
-
-{% include link_by_id.html id="teams" %}
-
-{% include link_by_id.html id="sharepoint" %}
-
 ## Om Kunstig intelligens (AI) i programmering B
-Beskrivelse følger.
+Det er meget vigtig at man bruger AI med omtanke som nybegynder.
 
-### Løs en sudoku med Python
-Eksempel på Python 3 Jupyter Notebook af Peter Norvig: [Solving Any Sudoku Puzzle](https://github.com/norvig/pytudes/blob/main/ipynb/Sudoku.ipynb)
+AI er ufattelig dygtig til at kode. Men erfaringen viser at uden den grundlæggende forståelse af programmering, render man hurtigt ind i problemer når man bruger AI.
 
-Original artikel: https://www.norvig.com/sudoku.html
+Man kan godt lære at kode med AI. Det kræver dog man har lært at læse og forstå kode først.
+
+
+
+
+
