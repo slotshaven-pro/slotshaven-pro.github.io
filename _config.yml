@@ -11,3 +11,9 @@ defaults:
       path: "sider"
     values:
       permalink: /:slug/ # Default permalink for pages in the sider directory
+  - scope:
+      path: ""
+      type: emne  # Name of the collection
+    values:
+      published: true
+      layout: default
