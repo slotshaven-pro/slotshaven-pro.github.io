@@ -37,15 +37,16 @@ Her følger et eksempel på hvordan synopsen kan struktureres. Det er udelukkend
 ## Kort abstract
 - Sammendrag af projektets formål, løsning og resultater på 5-10 linjer
 
-## Problemformulering
-- Præcis beskrivelse af det problem, projektet adresserer
-- Hvilke krav og ønsker ligger til grund for løsningen?
+## Problemformulering / projektbeskrivelse
+- Præcis beskrivelse af det problem som projektet forholder sig til
+- Ønsker til og ambitioner for løsningen
+- Hvilke krav kan man opstille til løsningen på baggrund af disse ønsker og ambitioner?
 
 ## Funktionsbeskrivelse
 - Beskrivelse af programmets funktioner og brugergrænseflade
 - Skærmlayout, indtastningsmuligheder og centrale funktionaliteter
 
-## Dokumentation af selve programmet
+## Dokumentation
 - Overordnet beskrivelse af programmets opbygning og struktur
 - Diagrammer (fx flowchart, klassediagram) og pseudokode for centrale dele
 - Forklaring af vigtige variabler, objekter og events
