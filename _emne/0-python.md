@@ -15,7 +15,11 @@ Sprogets kernefunktioner er dog skrevet i C af hensyn til afviklingshastigheden.
 Sproget benytter **dynamisk typing**. Det betyder, at datatyper bestemmes automatisk under kørsel.
 Man skal altså ikke erklare datatyper for variabler og argumenter.
 
-Det benytter indrykning (fire mellemrum) til at gruppere kode - i steder for "{}" som i fx Java.
+En særlig egenskab ved Python er **significant whitespace** - man bruger mellemrum eller indrykning til at samle kode i blokke - altså gruppere kode. Det er i modsætning til de fleste andre sprog som benytter et særligt tegn, fx "{}" som i fx Java eller C#.
+
+Standard-indrykning er 4 mellemrum.
+
+Bemærk altså at mellemrum og indrykning er meget vigtige - det er en del af syntaksen.
 
 Bemærk indrykningen i linje 3-5.
 ```
@@ -25,8 +29,8 @@ Bemærk indrykningen i linje 3-5.
 4.      x = y
 5.      y = i
 6. print(f"x = {x}, y = {y}")
-7.
-8. x = 5  y = 10 # resultat
+7. # resultat
+8. x = 20, y = 10
 ```
 
 ## Biblioteker
@@ -54,3 +58,15 @@ Dets primære styrker ligger dog i data science, matematik og machine learning.
 Det kan dog sagtens også anvendes til webudvikling med fx flask.
 
 Det kan dog generelt ikke anbefales til desktop-applikationer og spiludvikling da vindueshåndteringen er temmelig primitiv og mildest talt ikke særligt pæn efter 2025-standarder.
+
+## Afvikling
+Der er (mindst) fire måder at afvikle python på.
+
+1. Python-fortolker
+2. Scripts (.py-filer)
+3. Jupyter notebook
+4. IPython-fortolker
+
+Desuden kan man i VS Code med python-udvidelsen bruge "pilen" til at eksekvere den åbne fil på.
+
+
