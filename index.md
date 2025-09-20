@@ -5,9 +5,7 @@ author: mkm
 På dette sted finder man materiale til undervisningen i programmering B på Slotshaven Gymnasium.
 
 ## Pro2
-Materiale til PRO2.
-
-https://github.com/slotshaven-pro/pro2
+[Materiale til PRO2](https://github.com/slotshaven-pro/pro2)
 
 ## Pro3
 Materiale til PRO3.
