@@ -7,18 +7,15 @@ På dette sted finder man materiale til undervisningen i programmering B på Slo
 ## Pro2
 Materiale til PRO2.
 
-Repo: https://github.com/slotshaven-pro/pro2
+https://github.com/slotshaven-pro/pro2
 
 ## Pro3
 Materiale til PRO3.
 
-**Forløb: Webserver med flask**
+[Forløb: Webserver med flask](https://github.com/slotshaven-pro/webserver)
 
-Repo: https://github.com/slotshaven-pro/webserver
 
-**Øvrigt materiale**
-
-Repo: https://github.com/slotshaven-pro/pro3
+[Øvrigt materiale](https://github.com/slotshaven-pro/pro3)
 
 ## Grundbøger og undervisningsmateriale
 {% include link_by_id.html id="programmering" %}
