@@ -2,5 +2,6 @@
 title: Loops (løkker)
 description: '- vi gentager os selv'
 order: 13
+published: false
 ---
 Beskrivelse følger.

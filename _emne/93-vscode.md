@@ -2,6 +2,7 @@
 title: VS Code
 description: '- Word for programmering'
 order: 93
+published: false
 ---
 Visual Studio Code er en populær kode-editor fra Microsoft.
 

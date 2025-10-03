@@ -2,6 +2,7 @@
 title: Jupyter Notebooks
 description: '- det er smart'
 order: 92
+published: false
 ---
 Beskrivelse følger.
 
