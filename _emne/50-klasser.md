@@ -7,17 +7,21 @@ order: 50
 Klasser definerer objekter, der _indkapsler_ data og funktionalitet.
 
 ### Attributter og metoder
+
 En klasse har attributter (variable, egenskaber) og metoder (funktioner).
 
 ### Instans
+
 En klasse er en slags _skabelon_. Når man bruger klassen i sin kode, skaber man en _instans_ af klassen.
 
 ## Nedarvning
+
 Klasser kan nedarve fra andre klasser. På den måde kan man opbygge _klassehierakier_.
 
 Man taler om superklasser og subklasser. Subklasser nedarver fra en superklasse.
 
 ## Klassestruktur
+
 En klasse i Python defineres ved hjælp af nøgleordet `class`, efterfulgt af klassens navn.
 
 ```python
@@ -68,12 +72,14 @@ Her opretter vi to instanser af `Pet`-klassen: `dog` og `cat`. Vi angiver de nø
 dog.name  # Output: Fido
 dog.species  # Output: hund
 ```
+
 Man kan tilgå en instans' attributter ved hjælp af punktnotation - i dette eksempel  attributterne `name` og `species` for instansen `dog`.
 
 ```python
 dog.introduce()  # Output: Hej, mit navn er Fido, og jeg er en hund.
 cat.introduce()  # Output: Hej, mit navn er Plet, og jeg er en kat.
 ```
+
 Endelig kalder vi metoden `introduce` på hver instans (`dog` og `cat`), som udskriver en kort beskrivelse af instansen.
 
 Vi kan også tildele nye værdier til en instans attributter ved hjælp af punktnotation. I eksemplet opdaterer vi attributten `name` for instansen `dog` til "Max" og tildeler en ny attribut `color` med værdien "Brun".
@@ -85,4 +91,5 @@ dog.color = "Brun"
 dog.name  # Output: Max
 dog.color  # Output: Brun
 ```
+
 Efter at have opdateret attributterne kan vi få adgang til deres nye værdier ved hjælp af punktnotation. Attributten `name` for instansen `dog` er nu "Max", og den nytilføjede attribut `color` har værdien "Brun".

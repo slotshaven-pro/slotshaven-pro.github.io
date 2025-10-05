@@ -22,7 +22,8 @@ Standard-indrykning er 4 mellemrum.
 Bemærk altså at mellemrum og indrykning er meget vigtige - det er en del af syntaksen.
 
 Bemærk indrykningen i linje 3-5.
-```
+
+``` python
 1. x, y, swap = 10, 20, True
 2. if swap:
 3.      i = x
@@ -34,6 +35,7 @@ Bemærk indrykningen i linje 3-5.
 ```
 
 ## Biblioteker
+
 Python beskrives ofte som et “batteries included”-sprog, fordi der findes et bredt udvalg af velafprøvede biblioteker til alle formål.
 
 **Python Standard Library** (PSL) indeholder en lang række nyttige funktioner.
@@ -52,6 +54,7 @@ Der kan nævnes:
 I modsætning til PSL skal tredjepartsbiblioteker importeres før brug.
 
 ## Anvendelse
+
 Som et højniveausprog kan Python i princippet anvendes til stort set alle formål.
 Dets primære styrker ligger dog i data science, matematik og machine learning.
 
@@ -60,6 +63,7 @@ Det kan dog sagtens også anvendes til webudvikling med fx flask.
 Det kan dog generelt ikke anbefales til desktop-applikationer og spiludvikling da vindueshåndteringen er temmelig primitiv og mildest talt ikke særligt pæn efter 2025-standarder.
 
 ## Afvikling
+
 Der er (mindst) fire måder at afvikle python på.
 
 1. Python-fortolker
@@ -68,5 +72,3 @@ Der er (mindst) fire måder at afvikle python på.
 4. IPython-fortolker
 
 Desuden kan man i VS Code med python-udvidelsen bruge "pilen" til at eksekvere den åbne fil på.
-
-

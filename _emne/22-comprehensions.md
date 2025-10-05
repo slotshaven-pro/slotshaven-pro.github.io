@@ -22,12 +22,15 @@ for x in range(10):
 ``` python
 squares = [x**2 for x in range(10)]
 ```
+
 Lidt nemmere, hvar?
 
 Man kan tilføje flere for-løkker og betingelser.
-```
+
+``` python
 [(x, y) for x in [1,2,3] for y in [3,1,4] if x != y]
 ```
+
 Hvad gør denne linje? Den kombinerer to lister _hvis elementerne ikke er ens_!
 Hvilket i lang form svarer til:
 
@@ -43,6 +46,7 @@ for x in [1,2,3]:
 Bemærk at output er en liste af tupler.
 
 Man kan også generere dictionaries.
+
 ``` python
 keys = ['apple', 'banana', 'cherry']
 values = [1.2, 0.5, 2.5]
@@ -51,5 +55,3 @@ dict = {keys[i]: values[i] for i in range(len(keys))}
 
 # dict = {'apple': 1.2, 'banana': 0.5, 'cherry': 2.5}
 ```
-
-
