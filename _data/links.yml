@@ -40,7 +40,7 @@
   source: mkm
   description: Al materiale - øvelser, guide og eksempler - kan du finde her på GitHub
   url: https://github.com/slotshaven-pro/pro2
-- name: Forløb: Webserver
+- name: Forløb Webserver
   published: true
   id: github-webserver
   category: general
