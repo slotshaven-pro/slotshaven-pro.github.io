@@ -6,11 +6,7 @@ På dette sted finder man materiale til undervisningen i programmering B på Slo
 
 ## Materiale
 
-Guides, øvelser og andet materiale til undervisningen.
-
-{% include link_by_id.html id="github-exercises" style="verbose" %}
-
-Forløb: webserver med python, flask, sqlite3.
+{% include link_by_id.html id="github-material" style="verbose" %}
 
 {% include link_by_id.html id="github-webserver" style="verbose"%}
 
