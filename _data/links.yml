@@ -54,3 +54,10 @@
   source: slotshaven
   description: En rigtig god guide til Python
   url: https://skillzam.com/notes/pythonNotes.html
+- name: Real Python
+  published: true
+  id: realpython
+  category: dokumentation
+  source: realpython
+  description: Artikler, vejledninger og quizzer til Python-programmering.
+  url: https://realpython.com/
