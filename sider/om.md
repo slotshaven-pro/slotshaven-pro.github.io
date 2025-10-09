@@ -1,12 +1,12 @@
 ---
-title: Valgfag Programmering B
-description: '- kode og udvikling på HTX'
+title: Om faget programmering
+description: '- kode og udvikling'
 published: yes
 permalink: /om
 ---
 Programmering B er fra 2025 et studieretningsfag på MAT-PRO-linjen på HTX Slotshaven.
 
-Der undervises i programmeringssproget python.
+Der undervises i programmeringssproget Python.
 
 ## Eksamen
 
@@ -30,15 +30,12 @@ Som studieretningsfag er der obligatorisk årsprøve i 2g og afsluttende eksamen
 
 ## Om kunstig intelligens (AI)
 
-Her følger et par pædagogiske ord om brugen af AI i programmering B.
-
 &#x24D8; _Det er meget vigtigt at man bruger AI med omtanke som nybegynder._
 
 AI er ufattelig dygtig til at kode. Men erfaringen viser at uden den grundlæggende forståelse af programmering, render man hurtigt ind i problemer når man bruger AI.
 
 Man kan godt lære at kode med AI. Det kræver dog man har lært at læse og forstå kode først.
-
-Vi bruger AI i undervisningen når det er relevant.
+Og at man kigger på _hvorfor_ og _hvordan_ - og ikke bare klippe-klistrer færdige løsninger ind i sin kode.
 
 ## Læreplan
 
