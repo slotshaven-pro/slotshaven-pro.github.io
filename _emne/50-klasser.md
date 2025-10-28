@@ -1,6 +1,6 @@
 ---
 title: Klasser i python
-description: '- og en lidt om OOP'
+description: '- You down with O.O.P?'
 order: 50
 
 ---
