@@ -42,7 +42,7 @@ Her følger et eksempel på hvordan synopsen kan struktureres. Det er udelukkend
 
 - Sammendrag af projektets formål, løsning og resultater på 5-10 linjer
 
-## Problemformulering / projektbeskrivelse
+## Problemformulering
 
 - Præcis beskrivelse af det problem som projektet forholder sig til
 - Ønsker til og ambitioner for løsningen

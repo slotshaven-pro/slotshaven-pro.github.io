@@ -17,10 +17,3 @@ På dette sted finder man materiale til undervisningen i programmering B på Slo
 {% include link_by_id.html id="python-3-docs" style="verbose" %}
 
 {% include link_by_id.html id="skillzam" style="verbose" %}
-
-
-
-
-
-
-

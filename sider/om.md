@@ -84,11 +84,9 @@ Undervisningsformen differentieres således, at alle elever udvikler sig i under
 ### Referencer
 
 **Læreplan**
-
 {% include link_by_id.html id="laereplan-programmering" %}
 
 **Vejledning til læreplan**
-
 {% include link_by_id.html id="vejledning-programmering" %}
 
 
