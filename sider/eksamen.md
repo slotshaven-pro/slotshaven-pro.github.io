@@ -39,9 +39,13 @@ Eleverne i en gruppe har fælles ansvar for det afleverede program.
 
 ## Projektbeskrivelse
 
-Når grupperne har valgt emne og tema, skal der afleveres en projektbeskrivelse.
+Når grupperne har valgt emne og tema, skal hver gruppe udarbejde en kort projektbeskrivelse, som afleveres.
 
 Projektbeskrivelsen skal godkendes af vejlederen, som sikrer det faglige niveau og indhold, før arbejdet med projektet kan gå i gang.
+
+Projektbeskrivelsen (1 sides tekst i alt, plus figurer) skal omfatte en kort, men klar beskrivelse af konceptet, herunder en sigende titel. Desuden en foreløbig kravspecifikation og et foreløbigt diagram over programmets funktioner og opbygning.
+
+Projektbeskrivelsen skal desuden indeholde en redegørelse for den aftalte rollefordeling i gruppen.
 
 ## Aflevering
 
