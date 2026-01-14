@@ -6,12 +6,17 @@ permalink: /eksamen
 ---
 Som studieretningsfag afsluttes Programmering B med obligatorisk eksamen i 3g.
 
+## tl;dr
+
 Et stykke tid før eksamen afleveres et programmeringsprojekt som præsenteres til den afsluttende eksamen.
-Projektet udarbejdes i grupper.
+Aflevering består af (1) kildekoden til et program (produktet) og (2) en synopsis (rapport).
+Projektet udarbejdes i grupper af 2-4, men afleveringen er individuel.
 
-I 2g afsluttes året med et årsprøveprojekt. Det er en mindre udgave af den afsluttende eksamen i 3g, dog med intern censur.
+I begyndelsen af forløbet afleverer hver gruppe en fælles projektbeskrivelse, som godkendes af vejleder.
 
-### Prøveform
+I 2g afsluttes med et årsprøveprojekt, som er en mindre udgave af den afsluttende eksamen i 3g.
+
+## Prøveform
 
 - ekstern censur
 - mundtlig
@@ -26,23 +31,21 @@ Prøven indeholder to dele:
 
 Tiden fordeles ligeligt mellem eksamensprojektet og den ukendte opgave.
 
-### Projektets arbejdsform
+## Projektets arbejdsform
 
-Projektet udarbejdes i grupper på 2-4 elever.
+Projektet udarbejdes i grupper på 2-4 elever (undtagelser kræver tilladelse fra vejleder).
 
-Eleverne i en gruppe har fælles ansvar for det afleverede.
+Eleverne i en gruppe har fælles ansvar for det afleverede program.
 
-Kun undtagelsesvis kan det tillades at en elev arbejder individuelt.
-
-### Projektbeskrivelse
+## Projektbeskrivelse
 
 Når grupperne har valgt emne og tema, skal der afleveres en projektbeskrivelse.
 
 Projektbeskrivelsen skal godkendes af vejlederen, som sikrer det faglige niveau og indhold, før arbejdet med projektet kan gå i gang.
 
-### Aflevering
+## Aflevering
 
-**Trykt rapport**. (Revideres) Rapporten med bilag afleveres i to trykte eksemplarer på studieadministrationen.
+**Trykt synopsis (rapport)**. (Revideres) Rapporten med bilag afleveres i to trykte eksemplarer på studieadministrationen.
 
 **Elektronisk form.** Rapporten afleveres også i elektronisk form på eksamensopgaven i Lectio.
 
@@ -51,6 +54,6 @@ Det tilhørende program skal afleveres på et medie, så det kan sikres, at det 
 
 Software afleveres således som kodefiler på et USB-stik, samt eventuelt i form af et link til et GitHub-repo eller lignende.
 
-### Bedømmelse
+## Bedømmelse
 
 Der gives en samlet karakter for præsentationen af eksamensprojektet og besvarelsen af opgaven fra forberedelsen.
