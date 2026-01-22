@@ -4,7 +4,7 @@ title: Eksamen
 description: '- alt om det afsluttende eksamenprojekt'
 permalink: /eksamen
 ---
-Som studieretningsfag afsluttes Programmering B med obligatorisk eksamen i 3g.
+Hvis faget udtrækkes, afsluttes Programmering B med eksamen i 3g.
 
 ## tl;dr
 
@@ -14,7 +14,7 @@ Projektet udarbejdes i grupper af 2-4, men afleveringen er individuel.
 
 I begyndelsen af forløbet afleverer hver gruppe en fælles projektbeskrivelse, som godkendes af vejleder.
 
-I 2g afsluttes med et årsprøveprojekt, som er en mindre udgave af den afsluttende eksamen i 3g.
+I 2g afsluttes året altid med et årsprøveprojekt, som er en mindre udgave af den afsluttende eksamen i 3g.
 
 ## Prøveform
 
