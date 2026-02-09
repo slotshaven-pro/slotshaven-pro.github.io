@@ -29,20 +29,15 @@ Her følger et eksempel på hvordan synopsen kan struktureres. Det er udelukkend
 - Skole og klasse
 - Dato for aflevering
 
-## Indholdsfortegnelse
-
-- Oversigt over afsnit og bilag med sidetal
-
-## Indledning
-
-- Kort præsentation af projektets baggrund og motivation
-- Hvad handler projektet om, og hvorfor er det relevant?
-
 ## Kort abstract
 
 - Sammendrag af projektets formål, løsning og resultater på 5-10 linjer
 
-## Problemformulering
+## Indholdsfortegnelse
+
+- Oversigt over afsnit og bilag med sidetal
+
+## Projektbeskrivelse
 
 - Præcis beskrivelse af det problem som projektet forholder sig til
 - Ønsker til og ambitioner for løsningen
