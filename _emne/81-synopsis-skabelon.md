@@ -5,7 +5,7 @@ order: 81
 ---
 Her følger et eksempel på hvordan synopsen kan opbygges og struktureres. Det er udelukkende vejledende. Særlige forhold kan gøre at kapitler og afsnit skal udelades eller tilføjes.
 
-Se også [side om synopsen ↗️]({% link _emne/synopsis.md %}).
+Se også [side om synopsen ↗️]({% link _emne/80-synopsis.md %}).
 
 ## Forside
 

@@ -18,7 +18,7 @@ Vejledningen uddyber det således:
 
 Synopsen dokumenterer altså det færdige program. Man kan dog med fordel udarbejde sin synopse sideløbende med udviklingen af programmet, idet man løbende forfiner og forbedrer de beskrivelser og diagrammer som man producerer i planlægningsfasen. På den måde indgår synopsen i den iterative udviklingsproces.
 
-Se [eksempel på opbygning af synopsis ↗️]({% link _emne/synopsis-skabelon.md %}).
+Se [eksempel på opbygning af synopsis ↗️]({% link _emne/81-synopsis-skabelon.md %}).
 
 I synopsen dokumenterer og redegører for sin løsning - anvendte teknologier og den overordnede overarkitektur - hjælp af skærmbilleder, diagrammer og gennemgang af centrale kode-eksempler.
 
@@ -32,4 +32,4 @@ AI-genereret kode skal deklareres - det skal altså fremgå at det er genereret 
 
 Relevant prompt-historik skal dokumenteres i bilag. Bed evt. din AI om at logge al kommunikation.
 
-Instruktionsfiler (AGENTS.md, copilot-instructions.md) skal i bilag.
+Instruktionsfiler (`AGENTS.md`, `copilot-instructions.md`) skal i bilag.
