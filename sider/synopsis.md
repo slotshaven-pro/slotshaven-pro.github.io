@@ -18,7 +18,7 @@ Vejledningen uddyber det således:
 
 Synopsen dokumenterer altså det færdige program. Man kan dog med fordel udarbejde sin synopse sideløbende med udviklingen af programmet, idet man løbende forfiner og forbedrer de beskrivelser og diagrammer som man producerer i planlægningsfasen. På den måde indgår synopsen i den iterative udviklingsproces.
 
-Se [eksempel på opbygning af synopsis ↗️]({% link _emne/81-synopsis-skabelon.md %}).
+Se [eksempel på opbygning af synopsis ↗️]({% link sider/synopsis-skabelon.md %}).
 
 I synopsen dokumenterer man _overordnet_ og _i detaljer_ for sin løsning. Det gælder altså om, at forklare relevante anvendte teknologier og den overordnede arkitektur - ved hjælp af skærmbilleder, diagrammer, pseudo-kode osv. Særligt vigtigt er en gennemgang af udvalgte, centrale kode-eksempler.
 

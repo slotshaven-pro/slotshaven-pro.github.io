@@ -10,7 +10,7 @@ Der undervises i programmeringssproget Python.
 
 ## Eksamen
 
-Som studieretningsfag er der obligatorisk årsprøve i 2g og afsluttende eksamen i 3g.
+Som studieretningsfag er der obligatorisk årsprøve i 2g og afsluttende eksamen i 3g (hvis faget udtrækkes).
 
 [Læs mere om eksamen ↗️]({% link sider/eksamen.md %}).
 
@@ -19,14 +19,6 @@ Som studieretningsfag er der obligatorisk årsprøve i 2g og afsluttende eksamen
 **2g**: Ca. 56 moduler med 7 timers elevtid.
 
 **3g**: ca. 119 moduler med 25 timers elevtid.
-
-## Grundbøger og undervisningsmateriale
-
-{% include link_by_id.html id="programmering" %}
-
-{% include link_by_id.html id="python-3-docs" %}
-
-{% include link_by_id.html id="skillzam" %}
 
 ## Om kunstig intelligens (AI)
 

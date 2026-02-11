@@ -1,11 +1,13 @@
 ---
-title: Eksempel på opbygning af synopsis
-description: '- programdokumentationsskabelon'
+title: Synopsis-skabelon
+description: '- Struktur er '
 order: 81
 ---
-Her følger et eksempel på hvordan synopsen kan opbygges og struktureres. Det er udelukkende vejledende. Særlige forhold kan gøre at kapitler og afsnit skal udelades eller tilføjes.
+Her følger et vejledende eksempel på hvordan synopsen kan opbygges og struktureres. Særlige forhold kan gøre at kapitler og afsnit skal udelades eller tilføjes, afhængigt af hvilken projektets natur.
 
-Se også [side om synopsen ↗️]({% link _emne/80-synopsis.md %}).
+Husk altid sidetal på alle sider.
+
+Se også [side om synopsen ↗️]({% link sider/synopsis.md %}).
 
 ## Forside
 
@@ -21,7 +23,7 @@ Se også [side om synopsen ↗️]({% link _emne/80-synopsis.md %}).
 
 ## Indholdsfortegnelse
 
-- Indholdsfortegnelse med aktive links
+- Indholdsfortegnelse med sidetal og aktive links
 
 ## Indledning / Problemformulering / Projektbeskrivelse
 

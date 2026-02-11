@@ -6,6 +6,8 @@ permalink: /eksamen
 ---
 Hvis faget udtrækkes, afsluttes Programmering B med eksamen i 3g.
 
+Se også [Synopsis ↗️]({% link sider/synopsis.md %}) og [synopsis-Skabelon ↗️]({% link sider/synopsis-skabelon.md %}).
+
 ## tl;dr
 
 Et stykke tid før eksamen afleveres et programmeringsprojekt som præsenteres til den afsluttende eksamen.
@@ -13,8 +15,6 @@ Aflevering består af (1) kildekoden til et program (produktet) og (2) en synops
 Projektet udarbejdes i grupper af 2-4, men afleveringen er individuel.
 
 I begyndelsen af forløbet afleverer hver gruppe en fælles projektbeskrivelse, som godkendes af vejleder.
-
-I 2g afsluttes året altid med et årsprøveprojekt, som er en mindre udgave af den afsluttende eksamen i 3g.
 
 ## Prøveform
 
@@ -54,9 +54,8 @@ Projektbeskrivelsen skal desuden indeholde en redegørelse for den aftalte rolle
 **Elektronisk form.** Rapporten afleveres også i elektronisk form på eksamensopgaven i Lectio.
 
 **Program/produkt.**
-Det tilhørende program skal afleveres på et medie, så det kan sikres, at det efterfølgende ikke kan ændres i perioden indtil eksamen.
-
-Software afleveres således som kodefiler på et USB-stik, samt eventuelt i form af et link til et GitHub-repo eller lignende.
+Den tilhørende programkode afleveres i form af et link til et offentligt GitHub-repo (eller tilsvarende) og som zip-fil i lectio.
+Hvis den samlede programkode er for stor til lectio, afleveres den på et USB-stik.
 
 ## Bedømmelse
 
