@@ -1,6 +1,7 @@
 ---
 title: Git og GitHub
 description: '- versionsstyring'
+permalink: /git-github
 order: 90
 ---
 GitHub er en populær webside og online-service som bruges som versionsstyrings- og samarbejdsplatform for kodeprojekter. GitHub er ejet af Microsoft som købte det i 2018.

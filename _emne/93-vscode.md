@@ -1,6 +1,7 @@
 ---
 title: VS Code
 description: '- Word for programmering'
+permalink: /code
 order: 93
 published: false
 ---

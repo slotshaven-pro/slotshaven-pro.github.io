@@ -1,6 +1,7 @@
 ---
 title: Python
 description: '- et programmeringssprog'
+permalink: /python
 order: 1
 ---
 Python er et open-source programmeringssprog med en enkel syntaks.
@@ -58,9 +59,9 @@ I modsætning til PSL skal tredjepartsbiblioteker importeres før brug.
 Som et højniveausprog kan Python i princippet anvendes til stort set alle formål.
 Dets primære styrker ligger dog i data science, matematik og machine learning.
 
-Det kan dog sagtens også anvendes til webudvikling med fx flask.
+Det kan dog sagtens også anvendes til webudvikling med fx flask, Django og FastAPI.
 
-Det kan dog generelt ikke anbefales til desktop-applikationer og spiludvikling da vindueshåndteringen er temmelig primitiv og mildest talt ikke særligt pæn efter 2025-standarder.
+Det kan dog generelt ikke anbefales til desktop-applikationer og spiludvikling da vindueshåndteringen er temmelig primitiv og en smule primitiv efter nutidens standarder.
 
 ## Afvikling
 

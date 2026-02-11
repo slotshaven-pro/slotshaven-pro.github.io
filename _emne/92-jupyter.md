@@ -1,6 +1,7 @@
 ---
 title: Jupyter Notebooks
 description: '- det er smart'
+permalink: /jupyter-notebooks
 order: 92
 published: false
 ---

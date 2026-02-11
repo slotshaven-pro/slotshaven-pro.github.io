@@ -1,7 +1,7 @@
 ---
 title: Synopsis-skabelon
-description: '- Struktur er '
-order: 81
+description: '- Struktur er .. alt'
+permalink: /synopsis-skabelon
 ---
 Her følger et vejledende eksempel på hvordan synopsen kan opbygges og struktureres. Særlige forhold kan gøre at kapitler og afsnit skal udelades eller tilføjes, afhængigt af hvilken projektets natur.
 

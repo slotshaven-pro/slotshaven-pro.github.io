@@ -1,6 +1,7 @@
 ---
 title: Markdown
 description: '- html på nemme måde'
+permalink: /markdown
 order: 91
 published: false
 ---

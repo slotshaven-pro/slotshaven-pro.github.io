@@ -1,6 +1,7 @@
 ---
 title: List comprehensions
 description: '- alt på en linje'
+permalink: /comprehensions
 order: 22
 
 ---

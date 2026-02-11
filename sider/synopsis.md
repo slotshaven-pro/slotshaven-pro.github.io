@@ -1,7 +1,7 @@
 ---
 title: Synopsis
 description: '- programdokumentation'
-order: 80
+permalink: /synopsis
 ---
 En synopsis (bestemt form: _synopsen_) er en
 

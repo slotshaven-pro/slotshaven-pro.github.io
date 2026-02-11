@@ -1,6 +1,7 @@
 ---
 title: Klasser i python
 description: '- You down with O.O.P?'
+permalink: /klasser
 order: 50
 
 ---
