@@ -1,6 +1,6 @@
 ---
 title: Eksempel på opbygning af synopsis
-description: '- programdokumentation'
+description: '- programdokumentationsskabelon'
 order: 81
 ---
 Her følger et eksempel på hvordan synopsen kan opbygges og struktureres. Det er udelukkende vejledende. Særlige forhold kan gøre at kapitler og afsnit skal udelades eller tilføjes.
@@ -11,23 +11,24 @@ Se også [side om synopsen ↗️]({% link _emne/80-synopsis.md %}).
 
 - Titel på projektet
 - Navne på elever
-- Skole og klasse
+- Skole, klasse og fag
 - Dato for aflevering
 - Passende illustration
 
-## Kort abstract
+## Abstract
 
-- Sammendrag af projektets formål, løsning og resultater på 5-10 linjer
+- Kort sammendrag til censor af projektets formål, løsning og resultater
 
 ## Indholdsfortegnelse
 
-- Oversigt over afsnit og bilag med sidetal
+- Indholdsfortegnelse med aktive links
 
-## Problemformulering (projektbeskrivelse)
+## Indledning / Problemformulering / Projektbeskrivelse
 
+- Kort introduktion til projektet
 - Præcis beskrivelse af det problem som projektet forholder sig til
-- Ønsker til og ambitioner for løsningen
-- Hvilke krav kan man opstille til løsningen på baggrund af disse ønsker og ambitioner?
+- Krav til løsningen
+- Arbejds- og rollefordeling i gruppen
 
 ## Funktionsbeskrivelse
 
@@ -37,20 +38,20 @@ Se også [side om synopsen ↗️]({% link _emne/80-synopsis.md %}).
 ## Dokumentation
 
 - Overordnet beskrivelse af programmets opbygning og struktur
-- Diagrammer (fx flowchart, klassediagram) og pseudokode for centrale dele
-- Forklaring af vigtige variabler, objekter og events
+- Diagrammer, visualiseringer, illustrationer, pseudokode
+- Kodegennemgang
 
 ## Test
 
-- Beskrivelse af testmetoder (fx tænke-højt-test eller funktionalitetstest)
+- Beskrivelse af testmetoder
 - Eksempler på testcases og resultater
 
 ## Konklusion
 
-- Opsummering af projektets resultater og erfaringer
-- Refleksion over processen og eventuelle forbedringsmuligheder
+- Opsummering af projektets resultater
+- Refleksion over processen
 
 ## Bilag
 
-- Kodeudsnit eller hele kildekoden
+- Kodebasen eller uddrag af relevante dele
 - Eventuelle ekstra diagrammer, testdata eller andet relevant materiale
