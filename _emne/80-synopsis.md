@@ -3,9 +3,7 @@ title: Synopsis
 description: '- programdokumentation'
 order: 80
 ---
-## Synopsis
-
-En synopsis (bestemt form: synopsen) er en
+En synopsis (bestemt form: _synopsen_) er en
 
 > kortfattet, mere eller mindre detaljeret udkast til en planlagt film, bog el.lign. (kilde: ordnet.dk).
 
@@ -20,4 +18,18 @@ Vejledningen uddyber det således:
 
 Synopsen dokumenterer altså det færdige program. Man kan dog med fordel udarbejde sin synopse sideløbende med udviklingen af programmet, idet man løbende forfiner og forbedrer de beskrivelser og diagrammer som man producerer i planlægningsfasen. På den måde indgår synopsen i den iterative udviklingsproces.
 
-Se også [eksempel på opbygning af synopsis ↗️]({% link _emne/synopsis-skabelon.md %}).
+Se [eksempel på opbygning af synopsis ↗️]({% link _emne/synopsis-skabelon.md %}).
+
+I synopsen dokumenterer og redegører for sin løsning - anvendte teknologier og den overordnede overarkitektur - hjælp af skærmbilleder, diagrammer og gennemgang af centrale kode-eksempler.
+
+Man kan også med fordel kort dokumentere hvordan brugeren anvender programmet - altså programmets anvendelse og funktioner - i et særskilt afsnit.
+
+## AI
+
+Vær særlig opmærksom på at dokumentere brugen af AI.
+
+AI-genereret kode skal deklareres - det skal altså fremgå at det er genereret af AI.
+
+Relevant prompt-historik skal dokumenteres i bilag. Bed evt. din AI om at logge al kommunikation.
+
+Instruktionsfiler (AGENTS.md, copilot-instructions.md) skal i bilag.
