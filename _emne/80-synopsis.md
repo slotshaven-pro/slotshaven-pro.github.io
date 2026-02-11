@@ -20,7 +20,7 @@ Synopsen dokumenterer altså det færdige program. Man kan dog med fordel udarbe
 
 Se [eksempel på opbygning af synopsis ↗️]({% link _emne/81-synopsis-skabelon.md %}).
 
-I synopsen dokumenterer og redegører for sin løsning - anvendte teknologier og den overordnede overarkitektur - hjælp af skærmbilleder, diagrammer og gennemgang af centrale kode-eksempler.
+I synopsen dokumenterer man _overordnet_ og _i detaljer_ for sin løsning. Det gælder altså om, at forklare relevante anvendte teknologier og den overordnede arkitektur - ved hjælp af skærmbilleder, diagrammer, pseudo-kode osv. Særligt vigtigt er en gennemgang af udvalgte, centrale kode-eksempler.
 
 Man kan også med fordel kort dokumentere hvordan brugeren anvender programmet - altså programmets anvendelse og funktioner - i et særskilt afsnit.
 
@@ -29,7 +29,5 @@ Man kan også med fordel kort dokumentere hvordan brugeren anvender programmet -
 Vær særlig opmærksom på at dokumentere brugen af AI.
 
 AI-genereret kode skal deklareres - det skal altså fremgå at det er genereret af AI.
-
 Relevant prompt-historik skal dokumenteres i bilag. Bed evt. din AI om at logge al kommunikation.
-
 Instruktionsfiler (`AGENTS.md`, `copilot-instructions.md`) skal i bilag.
