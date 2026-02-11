@@ -28,6 +28,7 @@ Her følger et eksempel på hvordan synopsen kan struktureres. Det er udelukkend
 - Navne på elever
 - Skole og klasse
 - Dato for aflevering
+- Passende illustration
 
 ## Kort abstract
 
@@ -37,7 +38,7 @@ Her følger et eksempel på hvordan synopsen kan struktureres. Det er udelukkend
 
 - Oversigt over afsnit og bilag med sidetal
 
-## Projektbeskrivelse
+## Problemformulering (projektbeskrivelse)
 
 - Præcis beskrivelse af det problem som projektet forholder sig til
 - Ønsker til og ambitioner for løsningen
