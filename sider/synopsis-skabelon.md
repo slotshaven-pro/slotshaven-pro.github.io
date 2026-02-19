@@ -30,7 +30,7 @@ Se også [side om synopsen ↗️]({% link sider/synopsis.md %}).
 - Kort introduktion til projektet
 - Præcis beskrivelse af det problem som projektet forholder sig til
 - Krav til løsningen
-- Arbejds- og rollefordeling i gruppen
+- Redegørelse for gruppemedlemmernes fokusområder
 
 ## Funktionsbeskrivelse
 
