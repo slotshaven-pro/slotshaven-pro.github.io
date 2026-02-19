@@ -11,7 +11,7 @@ Se også siderne om [Synopsis ↗️]({% link sider/synopsis.md %}) og [Synopsis
 ## tl;dr
 
 Et stykke tid før eksamen afleveres et programmeringsprojekt som præsenteres til den afsluttende eksamen.
-Aflevering består af (1) kildekoden til et program (produktet) og (2) en synopsis (rapport).
+Aflevering består af (1) kildekoden til et program (produktet) og (2) en synopsis ("rapport").
 Projektet udarbejdes i grupper af 2-3, men afleveringen er individuel.
 
 Om synopsen hedder det i læreplanen at den "...må højst have et omfang af fem til otte normalsider, eksklusiv koder, rutediagrammer, bilag mm.".
@@ -51,9 +51,9 @@ Projektbeskrivelsen (1 sides tekst i alt, plus figurer) skal omfatte en kort, me
 
 ## Aflevering
 
-**Trykt synopsis (rapport)**. Rapporten med bilag afleveres i to trykte eksemplarer på studieadministrationen.
+**Trykt synopsis**. Synopsen med bilag afleveres i to trykte eksemplarer på studieadministrationen.
 
-**Elektronisk form.** Rapporten afleveres også i elektronisk form på eksamensopgaven i Lectio.
+**Elektronisk form.** Synopsen afleveres også i elektronisk form på eksamensopgaven i Lectio.
 
 **Program/produkt.**
 Den tilhørende programkode afleveres i form af et link til et offentligt GitHub-repo (eller tilsvarende) og som zip-fil i lectio.
