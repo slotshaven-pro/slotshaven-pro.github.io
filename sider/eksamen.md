@@ -41,19 +41,17 @@ Eleverne i en gruppe har fælles ansvar for det afleverede program.
 
 ## Projektbeskrivelse
 
-Når grupperne har valgt emne og tema, skal hver gruppe udarbejde en kort projektbeskrivelse, som afleveres.
+Hver gruppe skal i fællesskab udarbejde en kort projektbeskrivelse, som afleveres.
 
 Projektbeskrivelsen skal godkendes af vejlederen, som sikrer det faglige niveau og indhold, før arbejdet med projektet kan gå i gang.
 
 Projektbeskrivelsen (1 sides tekst i alt, plus figurer) skal omfatte en kort, men klar beskrivelse af konceptet, herunder en sigende titel. Desuden en foreløbig kravspecifikation og et foreløbigt diagram over programmets funktioner og opbygning.
 
-**Vigtigt**. Projektbeskrivelsen skal desuden inkludere "__en beskrivelse af den enkelte eksaminands fokus__" - altså en klar og tydelige redegørelse for gruppens arbejdsfordeling og hvert enkelt medlems ansvar. 
-
-Det forventes at gruppemedlemmernes fokus kommer til udtryk i deres respektive synopser.
+**Vigtigt**. Alle gruppemedlemmer skal overveje et fokus for deres synopsis. Derfor skal projektbeskrivelsen desuden inkludere "__en beskrivelse af den enkelte eksaminands fokus__" - altså en redegørelse for gruppens arbejdsfordeling og hvert enkelt medlems fokus.
 
 ## Aflevering
 
-**Trykt synopsis (rapport)**. (Revideres) Rapporten med bilag afleveres i to trykte eksemplarer på studieadministrationen.
+**Trykt synopsis (rapport)**. Rapporten med bilag afleveres i to trykte eksemplarer på studieadministrationen.
 
 **Elektronisk form.** Rapporten afleveres også i elektronisk form på eksamensopgaven i Lectio.
 
@@ -65,4 +63,4 @@ Hvis den samlede programkode er for stor til lectio, afleveres den på et USB-st
 
 Der gives en samlet karakter for præsentationen af eksamensprojektet og besvarelsen af opgaven fra forberedelsen.
 
-Bemærk at der ikke gives feedback på afleveringerne forud for eksamen - men at de indgår i den afsluttende standpunktkarakter.
+Bemærk at der ikke gives feedback på afleveringerne forud for eksamen - men at de indgår i det afsluttende standpunkt.
